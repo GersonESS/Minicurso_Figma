@@ -6,23 +6,7 @@
   box-sizing: border-box;
   text-decoration: none;
 }
-:root{
-  font-size: 17px;
-}
-.cabecalho {
-  background: red;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
+
 .cabecalho-imagem {
     height: 450px;
   }
- .cabecalho-nav{
-  display: flex;
-  gap: 4rem;
-  height: 45px;
- }
- body{
-  background: <img class="cabecalho-imagem" src="amico.svg" alt="Capa Figma">;
- }
