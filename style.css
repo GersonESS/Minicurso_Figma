@@ -10,3 +10,6 @@
 .cabecalho-imagem {
     height: 450px;
   }
+  body{
+    background: url( <img class="cabecalho-imagem" src="amico.svg" alt="Capa Figma"> );
+  }
