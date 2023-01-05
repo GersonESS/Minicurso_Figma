@@ -6,10 +6,17 @@
   box-sizing: border-box;
   text-decoration: none;
 }
-
-.cabecalho-imagem {
-    height: 450px;
+div{
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  border: 10px solid orange;
+  border-top: 10px solid orange;
+  /*border-left: 10px solid black ;*/
+}
+.cabecalho {
+    height: 50px;
   }
-  body{
+  /*body{
     background: url( <img class="cabecalho-imagem" src="amico.svg" alt="Capa Figma"> );
-  }
+  }*/
