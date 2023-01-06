@@ -5,14 +5,7 @@
   box-sizing: border-box;
   text-decoration: none;
 }
-body {
-font-size: 100%;
-/*background-image: url(amico.svg);*/
-height: 72px;
-}
-.cab{
-  height: 72px;
-}
+
 .cabecalho{
   display: flex;
   flex-direction: row;
@@ -92,5 +85,5 @@ height: 72px;
 }
 .cab{
   background-image: "amico.svg";
-  height: 370px;
+  height: 470px;
 }
