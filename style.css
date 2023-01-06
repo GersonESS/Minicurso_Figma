@@ -1,22 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   text-decoration: none;
 }
-div{
-  width: 100px;
-  height: 100px;
-  background-color: orange;
-  border: 10px solid orange;
-  border-top: 10px solid orange;
-  /*border-left: 10px solid black ;*/
+body {
+font-size: 100%;
 }
-.cabecalho {
-    height: 50px;
-  }
-  /*body{
-    background: url( <img class="cabecalho-imagem" src="amico.svg" alt="Capa Figma"> );
-  }*/
